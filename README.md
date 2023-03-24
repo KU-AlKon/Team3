@@ -15,7 +15,7 @@
 ### 스터디원  
 
 - 박준형  
-- 윤병욱  
+- 윤병욱 [@speculatingwook](https://github.com/speculatingwook)  
 - 이운태  
 - 조용찬  
 - 허정무  
