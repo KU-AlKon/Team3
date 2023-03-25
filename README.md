@@ -16,9 +16,9 @@
 
 - 박준형  
 - 윤병욱 [@speculatingwook](https://github.com/speculatingwook)  
-- 이운태  
+- 이운태 [@bigcloud07](https://github.com/bigcloud07)  
 - 조용찬  
-- 허정무  
+- 허정무 [@wjdan6](https://github.com/wjdan6)  
 
 ## ✏️ 소스코드 관리  
 
